@@ -6,6 +6,8 @@ Lookup docs from Terraform github page on fly
 
 * Usage
 
+** Display overview for a Terrafor provider (e.g. AWS)
+
 #+BEGIN_SRC
 M-x terraform-doc
 #+END_SRC
